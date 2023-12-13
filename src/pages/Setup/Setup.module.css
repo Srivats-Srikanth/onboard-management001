@@ -1,0 +1,16 @@
+.container {
+    min-height: 100vh;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding-top: 15vh;
+    /* justify-content: center; */
+}
+
+.marginTop {
+    margin-top: 3.5rem;
+}
+
+.maxWidth {
+    /* max-width: fit-content; */
+}

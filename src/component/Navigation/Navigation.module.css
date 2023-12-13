@@ -1,0 +1,33 @@
+.circle {
+    display: flex;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.activeNavColor {
+    background-color: #664DE5;
+}
+
+.textPadding {
+    padding-left: 16px;
+    padding-top: 8px;
+    padding-bottom: 18px;
+}
+
+.progressContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .progressStage {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+  }
+  

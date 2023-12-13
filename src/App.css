@@ -1,3 +1,7 @@
+body {
+  font-family: 'Inter', sans-serif;
+}
+
 input {
   border: 1px solid #c0c0c0;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
